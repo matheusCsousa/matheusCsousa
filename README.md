@@ -17,7 +17,7 @@ I’m always curious, constantly learning new things, and challenging myself to 
 
 
 
-## 👀 I'm interested in (Tenho interesse em):
+## 🚀 Fields of Interest (Áreas de Interesse):
 - *Software Development;*
 - *Database Management;*
 - *Game Development;*
