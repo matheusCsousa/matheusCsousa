@@ -57,14 +57,14 @@ I’m always curious, constantly learning new things, and challenging myself to 
 **Version Control:**
 <div style='display: flex;'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='100px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="100px"/>
+    <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" width="100px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="100px"/>
 </div>
 
 **Operating Systems:**
 <div style='display: flex;'>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width='100px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="100px"/>
+    <img src="https://cdn-icons-png.flaticon.com/256/518/518713.png" width='100px'/>
+    <img src="https://winaero.com/blog/wp-content/uploads/2018/03/Windows-Logo-Icon-winlogo-big-09.png" width="100px"/>
 </div>
 
 # Streak
