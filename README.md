@@ -51,7 +51,7 @@ I’m always curious, constantly learning new things, and challenging myself to 
 **Game Development Engines:**
 <div style='display: flex;'>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original.svg" width='100px'/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unity/unity-original.svg" width="100px"/>
+    <img src="https://preview.redd.it/tu3gt6ysfxq71.png?auto=webp&s=10ab55d9dc09e7ed6ea59bd5916800a5272d5969" width="100px"/>
 </div>
 
 **Version Control:**
