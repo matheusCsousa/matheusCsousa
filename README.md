@@ -8,9 +8,14 @@ I’m always curious, constantly learning new things, and challenging myself to 
 
 (Sou sempre curioso, constantemente aprendendo coisas novas e me desafiando para melhorar minhas habilidades.)
 
-![Nubzzin's Stats](https://github-readme-stats.vercel.app/api?username=Nubzzin&theme=dracula&show_icons=true&hide_border=true&count_private=true)
+![Nubzzin's Stats](https://github-readme-stats.vercel.app/api?username=Nubzzin&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
 
-![Nubzzin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nubzzin&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nubzzin&layout=compact&theme=dracula&hide_border=true&exclude_repo=Compiler-cpp-hydro )
+
+
+
+
 
 ## 👀 I'm interested in (Tenho interesse em):
 - *Software Development;*
