@@ -46,6 +46,12 @@ I’m always curious, constantly learning new things, and challenging myself to 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="100px"/>
 </div>
 
+**Databases:**
+<div style='display: flex;'>
+    <img src="https://user-images.githubusercontent.com/12401985/69677784-80bec400-1082-11ea-89b2-b2120eb84676.png" width='100px'/>
+    <img src="https://cdn-icons-png.freepik.com/256/17266/17266017.png?semt=ais_hybrid" width="100px"/>
+</div>
+
 **Operating Systems:**
 <div style='display: flex;'>
     <img src="https://cdn-icons-png.flaticon.com/256/518/518713.png" width='100px'/>
