@@ -36,14 +36,18 @@ I’m always curious, constantly learning new things, and challenging myself to 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='100px'/>
     <img src="https://static-00.iconduck.com/assets.00/java-icon-256x256-k4ufhihr.png" width="100px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="100px"/>
-    
 </div>
 
-**Version Control:**
+**Tools:**
 <div style='display: flex;'>
+    <img src="https://images.icon-icons.com/2108/PNG/512/react_icon_130845.png" width="100px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width='100px'/>
     <img src="https://images.crunchbase.com/image/upload/c_pad,h_256,w_256,f_auto,q_auto:eco,dpr_1/ywjqppks5ffcnbfjuttq" width="100px"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Vimlogo.svg/1200px-Vimlogo.svg.png" width='100px'/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" width="100px"/>
+    <img src="https://camo.githubusercontent.com/ab670630c04fa5e757ef1c83ef29401410e6b6be1f47c4dd6dddad7ba616c80b/68747470733a2f2f63646e2d696d616765732d312e6d656469756d2e636f6d2f6d61782f3235362f312a46454539386957696e6c5a42596b78424147384d76412e706e67" width="110px"/>
+    <img src="https://visualstudio.microsoft.com/wp-content/uploads/2021/10/Product-Icon.svg" width="100px"/>
+
 </div>
 
 **Databases:**
@@ -54,8 +58,10 @@ I’m always curious, constantly learning new things, and challenging myself to 
 
 **Operating Systems:**
 <div style='display: flex;'>
+    <img src="https://static-00.iconduck.com/assets.00/windows-icon-2018x2048-0y0cfqbh.png" width="100px"/>
     <img src="https://cdn-icons-png.flaticon.com/256/518/518713.png" width='100px'/>
-    <img src="https://winaero.com/blog/wp-content/uploads/2018/03/Windows-Logo-Icon-winlogo-big-09.png" width="100px"/>
+    <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width='100px'/>
+    <img src="https://www.shareicon.net/download/2015/09/16/101872_debian.ico" width='100px'/>
 </div>
 
 # Streak
