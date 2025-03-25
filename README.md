@@ -9,8 +9,6 @@ I’m always curious, constantly learning new things, and challenging myself to 
 (Sou sempre curioso, constantemente aprendendo coisas novas e me desafiando para melhorar minhas habilidades.)
 
 ![Nubzzin's Stats](https://github-readme-stats.vercel.app/api?username=Nubzzin&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nubzzin&layout=compact&theme=dracula&hide_border=true&exclude_repo=)
 
 
@@ -71,5 +69,5 @@ I’m always curious, constantly learning new things, and challenging myself to 
 
 # 🔗 Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-correia-de-sousa-88b739353)
-[![Email](https://img.shields.io/badge/E--mail-grey?style=for-the-badge&logo=gmail)](mailto:matheuscorreiadesousacontato@gmail.com)
+[![Email](https://img.shields.io/badge/E--mail-grey?style=for-the-badge&logo=gmail)](mailto:matheuscds.contato@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/nubsdre)
