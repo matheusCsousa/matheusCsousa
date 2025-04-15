@@ -58,8 +58,6 @@ I’m always curious, constantly learning new things, and challenging myself to 
 <div style='display: flex;'>
     <img src="https://static-00.iconduck.com/assets.00/windows-icon-2018x2048-0y0cfqbh.png" width="80px"/>
     <img src="https://cdn-icons-png.flaticon.com/256/518/518713.png" width='80px'/>
-    <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width='80px'/>
-    <img src="https://www.shareicon.net/download/2015/09/16/101872_debian.ico" width='80px'/>
 </div>
 
 # Streak
