@@ -34,6 +34,7 @@ I’m always curious, constantly learning new things, and challenging myself to 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width='80px'/>
     <img src="https://static-00.iconduck.com/assets.00/java-icon-256x256-k4ufhihr.png" width="80px"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80px"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="80px"/>
 </div>
 
 **Tools:**
