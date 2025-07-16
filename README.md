@@ -42,7 +42,7 @@ I'm a Software engineer with a focus on software development, database managemen
 
 **Operating Systems:**
 <div style='display: flex;'>
-    <img src="https://static-00.iconduck.com/assets.00/windows-icon-2018x2048-0y0cfqbh.png" width="80px"/>
+    <img src="https://images.icon-icons.com/2235/PNG/512/windows_os_logo_icon_134674.png" width="90px"/>
     <img src="https://cdn-icons-png.flaticon.com/256/518/518713.png" width='80px'/>
 </div>
 
