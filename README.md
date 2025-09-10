@@ -46,16 +46,6 @@ I'm a Software engineer with a focus on software development, database managemen
     <img src="https://cdn-icons-png.flaticon.com/256/518/518713.png" width='80px'/>
 </div>
 
-## Fields of Interest:
-- *Software Development;*
-- *Database Management;*
-- *Game Development;*
-- *Technology and Innovation;*
-- *Data Structures;*
-- *Systems Analysis;*
-
-
-
 # Links
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/matheus-correia-de-sousa)
 [![Email](https://img.shields.io/badge/E--mail-grey?style=for-the-badge&logo=gmail)](mailto:matheuscds.contato@gmail.com)
