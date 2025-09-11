@@ -3,7 +3,7 @@
 I'm a Software engineer with a focus on software development, database management, and data structures and also a college student coursing Systems Analysis and Development.
 
 ![Matheus' Stats](https://github-readme-stats.vercel.app/api?username=matheusCsousa&theme=dracula&show_icons=true&hide_border=true&count_private=true&rank_icon=github)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusCsousa&layout=compact&theme=dracula&hide_border=true&exclude_repo=opengl-firstry)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusCsousa&layout=compact&theme=dracula&hide_border=true)
 
 
 
